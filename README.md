@@ -60,10 +60,10 @@ Colab Notebooks/
 > All dependencies are installed automatically inside each notebook.  
 > All experiments use `seed=42` for deterministic reproducibility.
  
-| # | Notebook | Description | Runtime | |
+| # | Notebook | Description | | |
 |---|---|---|---|---|
-| 01 | `01_fMRI_pipeline_ABIDE_I_II.ipynb` | fMRI preprocessing → PyG graphs | ~3-4h | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/01_fMRI_pipeline_ABIDE_I_II.ipynb) |
-| 02 | `02_MEG_pipeline_OpenNeuro_ds005234.ipynb` | MEG preprocessing → feature tensors | ~2-3h | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/02_MEG_pipeline_OpenNeuro_ds005234.ipynb) |
+| 01 | `X_MGTNet_Diagnostic_TSA_par_architecture_hybride_GNN_+_Transformer_ABIDE_I_II.ipynb` | fMRI preprocessing → PyG graphs | ~3-4h | 
+| 02 | `X_MGTNet_Diagnostic_TSA_par_architecture_hybride_Transformer_MEG.ipynb` | MEG preprocessing → feature tensors | ~2-3h | 
  
 ---
 ---

@@ -7,7 +7,7 @@
 [![MNE](https://img.shields.io/badge/MNE--Python-1.11-green)](https://mne.tools)
 [![nilearn](https://img.shields.io/badge/nilearn-0.10-purple)](https://nilearn.github.io)
 
-</div>
+
 
 *A reproducible, CC200-anchored preprocessing and augmentation framework  
 for multimodal ASD diagnosis using fMRI and MEG neuroimaging data.*
@@ -15,7 +15,7 @@ for multimodal ASD diagnosis using fMRI and MEG neuroimaging data.*
 [🚀 Quick Start](#-quick-start) • [📁 Structure](#-structure) • [📊 Results](#-results) • [📬 Contact](#-contact)
  
 </div>
----
+
  
 ## 📌 Overview
  

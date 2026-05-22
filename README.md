@@ -13,7 +13,6 @@ for multimodal ASD diagnosis using fMRI and MEG neuroimaging data.*
 [🚀 Quick Start](#-quick-start) • [📁 Structure](#-structure) • [📊 Results](#-results) • [📬 Contact](#-contact)
  
 </div>
----
  
 ## 📌 Overview
  

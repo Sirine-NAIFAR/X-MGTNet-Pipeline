@@ -130,26 +130,6 @@ fMRI (ABIDE I+II)          MEG (OpenNeuro ds005234)
                  ▼
          ASD / TC Classifier
 ```
- 
----
- 
-## 📄 Paper
- 
-If you use this code, please cite:
- 
-```bibtex
-@inproceedings{naifar2026xmgtnet,
-  title     = {From Raw Neuroimaging to Graph-Ready Data: A Reproducible
-               Multimodal fMRI+MEG Pipeline for ASD Deep Learning},
-  author    = {Naifar, Sirine and Douss, Rim and Farah, Imed Riadh},
-  booktitle = {Procedia Computer Science},
-  series    = {KES 2026 -- 30th International Conference on Knowledge-Based
-               and Intelligent Information \& Engineering Systems},
-  year      = {2026},
-  publisher = {Elsevier}
-}
-```
- 
 ---
  
 ## 📬 Contact

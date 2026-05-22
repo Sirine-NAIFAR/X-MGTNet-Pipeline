@@ -6,8 +6,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?logo=pytorch)](https://pytorch.org)
 [![MNE](https://img.shields.io/badge/MNE--Python-1.11-green)](https://mne.tools)
 [![nilearn](https://img.shields.io/badge/nilearn-0.10-purple)](https://nilearn.github.io)
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/01_fMRI_pipeline_ABIDE_I_II.ipynb)
  
 *A reproducible, CC200-anchored preprocessing and augmentation framework  
 for multimodal ASD diagnosis using fMRI and MEG neuroimaging data.*

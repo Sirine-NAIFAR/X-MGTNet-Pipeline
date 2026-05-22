@@ -1,12 +1,12 @@
 # 🧠 X-MGTNet: Multimodal fMRI+MEG Pipeline for ASD Deep Learning
  
 <div align="center">
+ 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?logo=pytorch)](https://pytorch.org)
 [![MNE](https://img.shields.io/badge/MNE--Python-1.11-green)](https://mne.tools)
 [![nilearn](https://img.shields.io/badge/nilearn-0.10-purple)](https://nilearn.github.io)
-[![License](https://img.shields.io/badge/License-CC--BY--NC--ND-lightgrey)](LICENSE)
-[![KES 2026](https://img.shields.io/badge/KES_2026-Accepted-brightgreen)](https://kes-international.org)
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/01_fMRI_pipeline_ABIDE_I_II.ipynb)
  
 *A reproducible, CC200-anchored preprocessing and augmentation framework  

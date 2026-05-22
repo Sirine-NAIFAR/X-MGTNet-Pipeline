@@ -6,6 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?logo=pytorch)](https://pytorch.org)
 [![MNE](https://img.shields.io/badge/MNE--Python-1.11-green)](https://mne.tools)
 [![nilearn](https://img.shields.io/badge/nilearn-0.10-purple)](https://nilearn.github.io)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20349524.svg)](https://doi.org/10.5281/zenodo.20349524)
  
 *A reproducible, CC200-anchored preprocessing and augmentation framework  
 for multimodal ASD diagnosis using fMRI and MEG neuroimaging data.*

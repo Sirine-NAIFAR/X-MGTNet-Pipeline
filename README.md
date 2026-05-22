@@ -1,6 +1,4 @@
-# 🧠 X-MGTNet
-
-### Multimodal fMRI+MEG Pipeline for ASD Deep Learning
+# 🧠 X-MGTNet: Multimodal fMRI+MEG Pipeline for ASD Deep Learning
 
 <p align="center">
 

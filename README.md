@@ -39,42 +39,33 @@ Both pipelines are anchored to the **CC200 atlas**, enabling seamless cross-atte
 > No raw neuroimaging data is included in this repository.
  
 ---
-<!-- QUICK START -->
-<div class="section" id="quickstart">
-    <h2>🚀 Quick Start</h2>
-
-    <p style="margin-bottom:12px;"><strong>1. Set up Google Drive</strong></p>
-    <div class="callout blue">
-        📁 In your Google Drive, create the following folder structure and import the notebooks and phenotypic files inside:
-        <pre style="margin-top:10px;background:#0d1117;padding:12px;border-radius:6px;"><code>Colab Notebooks/
+## 🚀 Quick Start
+ 
+### 1. Set up Google Drive
+ 
+In your Google Drive, create the following folder structure and import the notebooks and phenotypic files inside:
+ 
+```
+Colab Notebooks/
 └── Finale/
     ├── 01_fMRI_pipeline_ABIDE_I_II.ipynb
     ├── 02_MEG_pipeline_OpenNeuro_ds005234.ipynb
     ├── Phenotypic_ABIDE1.csv
-    └── Phenotypic_ABIDE2.csv</code></pre>
-    </div>
-
-    <p style="margin-bottom:12px;"><strong>2. Run the pipelines on Google Colab</strong></p>
-    <div class="callout blue">
-        💡 Open each notebook in <strong>Google Colab</strong> and execute cells <strong>one by one, step by step, in order</strong>.<br>
-        All dependencies are installed automatically inside each notebook.<br>
-        All experiments use <code>seed=42</code> for deterministic reproducibility.
-    </div>
-    <table>
-        <tr><th>#</th><th>Notebook</th><th>Description</th><th>Runtime</th><th></th></tr>
-        <tr>
-            <td>01</td>
-            <td><code>01_fMRI_pipeline_ABIDE_I_II.ipynb</code></td>
-            <td>fMRI preprocessing → PyG graphs</td>
-            <td>~3-4h</td>
-            <td><a href="https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/01_fMRI_pipeline_ABIDE_I_II.ipynb" class="colab-btn">▶ Open in Colab</a></td>
-        </tr>
-        <tr>
-            <td>02</td>
-            <td><code>02_MEG_pipeline_OpenNeuro_ds005234.ipynb</code></td>
-            <td>MEG preprocessing → feature tensors</td>
-            <td>~2-3h</td>
-            <td><a href="https://colab.research.google.com/github/sirinenaifar/X-M
+    └── Phenotypic_ABIDE2.csv
+```
+ 
+### 2. Run the pipelines on Google Colab
+ 
+> 💡 Open each notebook in **Google Colab** and execute cells **one by one, step by step, in order**.  
+> All dependencies are installed automatically inside each notebook.  
+> All experiments use `seed=42` for deterministic reproducibility.
+ 
+| # | Notebook | Description | Runtime | |
+|---|---|---|---|---|
+| 01 | `01_fMRI_pipeline_ABIDE_I_II.ipynb` | fMRI preprocessing → PyG graphs | ~3-4h | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/01_fMRI_pipeline_ABIDE_I_II.ipynb) |
+| 02 | `02_MEG_pipeline_OpenNeuro_ds005234.ipynb` | MEG preprocessing → feature tensors | ~2-3h | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirinenaifar/X-MGTNet/blob/main/notebooks/02_MEG_pipeline_OpenNeuro_ds005234.ipynb) |
+ 
+---
 ---
  
 ## 📁 Structure

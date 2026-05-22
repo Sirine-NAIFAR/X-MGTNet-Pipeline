@@ -10,7 +10,7 @@
 *A reproducible, CC200-anchored preprocessing and augmentation framework  
 for multimodal ASD diagnosis using fMRI and MEG neuroimaging data.*
  
-[🚀 Quick Start](#-quick-start) • [📁 Structure](#-structure) • [📊 Results](#-results) • [📬 Contact](#-contact)
+[🚀 Quick Start](#-quick-start) • [📊 Results](#-results) • [📬 Contact](#-contact)
  
 </div>
  
@@ -60,32 +60,10 @@ Colab Notebooks/
 > All dependencies are installed automatically inside each notebook.  
 > All experiments use `seed=42` for deterministic reproducibility.
  
-| # | Notebook | Description | Runtime ||
-|---|---|---|---|---|
-| 01 | `X_MGTNet_Diagnostic_TSA_par_architecture_hybride_GNN_+_Transformer_ABIDE_I_II.ipynb` | fMRI preprocessing → PyG graphs | ~3-4h
-| 02 | `X_MGTNet_Diagnostic_TSA_par_architecture_hybride_Transformer_MEG.ipynb` | MEG preprocessing → feature tensors | ~2-3h 
- 
----
----
- 
-## 📁 Structure
- 
-```
-X-MGTNet/
-│
-├── 📓 notebooks/
-│   ├── 01_fMRI_pipeline_ABIDE_I_II.ipynb         # fMRI pipeline
-│   └── 02_MEG_pipeline_OpenNeuro_ds005234.ipynb   # MEG pipeline
-│
-├── 📊 outputs/
-│   ├── module4_9_fidelite_augmentation.png        # fMRI fidelity figure
-│   ├── meg_fidelite_augmentation.png              # MEG fidelity figure
-│   └── sensitivity_topk.png                      # Thresholding sensitivity
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
+| # | Notebook | Description | Runtime |
+|---|---|---|---|
+| 01 | `X_MGTNet_Diagnostic_TSA_par_architecture_hybride_GNN_+_Transformer_ABIDE_I_II.ipynb` | fMRI preprocessing → PyG graphs | ~3-4h |
+| 02 | `X_MGTNet_Diagnostic_TSA_par_architecture_hybride_Transformer_MEG.ipynb` | MEG preprocessing → feature tensors | ~2-3h |
  
 ---
  
